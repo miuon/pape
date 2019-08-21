@@ -9,6 +9,7 @@ My wallpaper collection! I use [`nitrogen`](https://wiki.archlinux.org/index.php
 | building     | ![side of a tall building against sky](building/blueside.jpg)
 | city         | ![grayscale image of a city smeared upwards](city/citysmear.jpg)
 | cozy         | ![living room on a spaceship](cozy/spaceshiplivingroom.jpg)
+| edits        | ![pink painted flowers on grey background](edits/pinkgreyflower.png)
 | flower       | ![painted flowers and melons](flower/floralmelons.png)
 | geometric    | ![neon hexagon among abstract purple mountains](geometric/purplehexa.png)
 | gif          | ![a scene from dark souls with a lit bonfire](gif/ds2.gif)
